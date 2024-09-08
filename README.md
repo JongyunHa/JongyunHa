@@ -17,8 +17,7 @@
 ---
 
 ### 📈 GitHub Contribution Graph
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=jongyunha&theme=react-dark&hide_border=true&area=true)
-
+[![Jongyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jongyunha&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ### 🌐 Connect with Me
