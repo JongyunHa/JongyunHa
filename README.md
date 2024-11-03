@@ -9,7 +9,7 @@
   [![Hits](https://komarev.com/ghpvc/?username=jongyunha&color=brightgreen&style=flat-square)](https://github.com/jongyunha)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/%EC%A2%85%EC%9C%A4-%ED%95%98-1997291b9/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:gkwhddbs9999@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/jongyunha/)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/popawaw/)
   
 </div>
 
