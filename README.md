@@ -1,26 +1,26 @@
-# Hi there! 👋
-![Visitor Count](https://komarev.com/ghpvc/?username=jongyunha&color=brightgreen)
+<h1 align="center">안녕하세요, 하종윤입니다 👋</h1>
+
+<p align="center">
+  <em>Backend Developer | Problem Solver | Continuous Learner</em>
+</p>
+
+<div align="center">
+  
+  [![Hits](https://komarev.com/ghpvc/?username=jongyunha&color=brightgreen&style=flat-square)](https://github.com/jongyunha)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/%EC%A2%85%EC%9C%A4-%ED%95%98-1997291b9/)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:gkwhddbs9999@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode)](https://leetcode.com/jongyunha/)
+  
+</div>
+
+## 💻 Problem Solving Stats
+
+<div align="center">
+  <img height="180em" src="https://leetcard.jacoblin.cool/popawaw?theme=dark&font=Noto%20Sans%20Korean"/>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jongyunha&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 📊 GitHub Stats
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongyunha&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongyunha&layout=compact&theme=radical)](https://github.com/jongyunha/github-readme-stats)
-
----
-
-### 📈 GitHub Contribution Graph
-[![Jongyun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jongyunha&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
-
-### 🌐 Connect with Me
-
-- **Email**: gkwhddbs9999@gmail.com
-- **LinkedIn**: [jongyun ha](https://www.linkedin.com/in/%EC%A2%85%EC%9C%A4-%ED%95%98-1997291b9/)
+<p align="center">
+  <em>Let's connect and build something amazing together! 🌟</em>
+</p>
